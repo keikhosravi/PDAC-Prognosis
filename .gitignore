@@ -1,0 +1,6 @@
+**/csv_files
+**/__pycache__
+**/Saved model
+**/trained_model
+**/.ipynb_checkpoints/
+*.csv
